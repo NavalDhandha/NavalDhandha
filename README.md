@@ -49,6 +49,10 @@ I’m currently open to **full-time Data Engineer, Analytics Engineer, and BI/Da
 
 ## Featured Projects
 
+These projects may come from different domains, but they all support the same goal: turning raw operational data into trusted analytics products.
+
+I use them to show how I think through the full data lifecycle — ingestion, transformation, modeling, quality, reporting, and business decision support.
+
 ### Real-Time Ride Analytics Pipeline
 **Azure Event Hubs | Azure Data Factory | ADLS | Databricks | Delta Live Tables | Star Schema**
 
@@ -96,6 +100,19 @@ Built a healthcare analytics platform that transforms appointment, provider, pat
 
 ## What I’m Working On
 
+
+I’m strongest in projects where data needs to move from messy source systems into something business teams can trust.
+
+That usually means building:
+
+- Cloud data pipelines for batch and streaming ingestion
+- Warehouse models for analytics and reporting
+- dbt / SQL transformation layers
+- Medallion architecture and star-schema models
+- KPI-ready datasets for dashboards
+- Streamlit apps for business-facing analytics workflows
+- Data quality checks and documentation so outputs are reliable
+  
 I’m improving my portfolio around:
 
 - Production-style Azure and Databricks data pipelines
