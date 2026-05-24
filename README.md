@@ -116,6 +116,15 @@ I’m open to full-time roles where I can build data pipelines, analytics models
 If your team is building cloud data platforms, analytics products, or BI-ready data systems, I’d be happy to connect.
 
 
+## Badges
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20to-Full--Time%20Roles-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Data%20Engineering-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Building-Cloud%20Pipelines-orange?style=for-the-badge" />
+</p>
+
+## Projects
 
 <p align="center">
   <a href="https://github.com/NavalDhandha/Real_Time_Ride_Analytics_Pipeline">
@@ -133,4 +142,22 @@ If your team is building cloud data platforms, analytics products, or BI-ready d
   <a href="https://github.com/NavalDhandha/Healthcare_provider_productivity_platform">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=NavalDhandha&repo=Healthcare_provider_productivity_platform" />
   </a>
+</p>
+
+## Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NavalDhandha&show_icons=true&theme=default" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NavalDhandha&layout=compact&theme=default" height="165" />
+</p>
+
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NavalDhandha&theme=default" />
+</p>
+
+## Skills
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,postgres,azure,gcp,snowflake,github,git,vscode" />
 </p>
