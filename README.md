@@ -7,10 +7,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/naval-dhandha/">
     <img src="https://img.shields.io/badge/LinkedIn-Naval%20Dhandha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:naval.d.us@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
   <a href="https://github.com/NavalDhandha">
     <img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
@@ -128,7 +124,6 @@ I’m improving my portfolio around:
 I’m open to full-time roles where I can build data pipelines, analytics models, reporting layers, and operational data products.
 
 - LinkedIn: [linkedin.com/in/naval-dhandha](https://www.linkedin.com/in/naval-dhandha/)
-- Email: [naval.d.us@gmail.com](mailto:naval.d.us@gmail.com)
 - GitHub: [github.com/NavalDhandha](https://github.com/NavalDhandha)
 
 If your team is building cloud data platforms, analytics products, or BI-ready data systems, I’d be happy to connect.
