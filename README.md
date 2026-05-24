@@ -132,6 +132,7 @@ I’m improving my portfolio around:
 I’m open to full-time roles where I can build data pipelines, analytics models, reporting layers, and operational data products.
 
 - LinkedIn: [linkedin.com/in/naval-dhandha](https://www.linkedin.com/in/naval-dhandha/)
+- Email: [naval.d.us@gmail.com](mailto:naval.d.us@gmail.com)
 - GitHub: [github.com/NavalDhandha](https://github.com/NavalDhandha)
 
 If your team is building cloud data platforms, analytics products, or BI-ready data systems, I’d be happy to connect.
