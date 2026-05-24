@@ -126,34 +126,64 @@ If your team is building cloud data platforms, analytics products, or BI-ready d
 
 ## Projects
 
-<p align="center">
-  <a href="https://github.com/NavalDhandha/Real_Time_Ride_Analytics_Pipeline">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NavalDhandha&repo=Real_Time_Ride_Analytics_Pipeline" />
-  </a>
-  <a href="https://github.com/NavalDhandha/Airbnb_Analytics_Engineering_with-Snowflake-dbt">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NavalDhandha&repo=Airbnb_Analytics_Engineering_with-Snowflake-dbt" />
-  </a>
-</p>
+## Projects
 
-<p align="center">
-  <a href="https://github.com/NavalDhandha/Invoice_Inventory_intelligence">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NavalDhandha&repo=Invoice_Inventory_intelligence" />
-  </a>
-  <a href="https://github.com/NavalDhandha/Healthcare_provider_productivity_platform">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NavalDhandha&repo=Healthcare_provider_productivity_platform" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td width="50%">
+      <h3>Real-Time Ride Analytics Pipeline</h3>
+      <p>
+        Azure batch + streaming data pipeline using Event Hubs, ADF, ADLS, Databricks, Delta tables, Silver OBT, Gold star schema, and SCD logic.
+      </p>
+      <p>
+        <b>Tech:</b> Azure Event Hubs, ADF, ADLS, Databricks, PySpark, Delta Lake
+      </p>
+      <a href="https://github.com/NavalDhandha/Real_Time_Ride_Analytics_Pipeline">View Project</a>
+    </td>
+    <td width="50%">
+      <h3>Airbnb Analytics Engineering</h3>
+      <p>
+        Snowflake + dbt analytics engineering project with Bronze/Silver/Gold layers, incremental models, reusable macros, OBT, and fact model.
+      </p>
+      <p>
+        <b>Tech:</b> Snowflake, dbt, SQL, Analytics Engineering
+      </p>
+      <a href="https://github.com/NavalDhandha/Airbnb_Analytics_Engineering_with-Snowflake-dbt">View Project</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>Invoice Inventory Intelligence</h3>
+      <p>
+        ML + Streamlit app for freight cost prediction and vendor invoice approval flagging using Python, Scikit-learn, SQLite, and Joblib.
+      </p>
+      <p>
+        <b>Tech:</b> Python, Pandas, Scikit-learn, Streamlit
+      </p>
+      <a href="https://github.com/NavalDhandha/Invoice_Inventory_intelligence">View Project</a>
+    </td>
+    <td width="50%">
+      <h3>Healthcare Provider Productivity Platform</h3>
+      <p>
+        Healthcare analytics pipeline using Azure, Databricks, Medallion architecture, SCD logic, and provider productivity KPI modeling.
+      </p>
+      <p>
+        <b>Tech:</b> Azure, Databricks, Medallion Architecture, KPI Modeling
+      </p>
+      <a href="https://github.com/NavalDhandha/Healthcare_provider_productivity_platform">View Project</a>
+    </td>
+  </tr>
+</table>
 
 ## Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NavalDhandha&show_icons=true&theme=default" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NavalDhandha&layout=compact&theme=default" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NavalDhandha&amp;show_icons=true&amp;hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NavalDhandha&amp;layout=compact&amp;hide_border=true" height="165" />
 </p>
 
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NavalDhandha&theme=default" />
+  <img src="https://streak-stats.demolab.com?user=NavalDhandha&amp;hide_border=true" />
 </p>
 
 ## Skills
