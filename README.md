@@ -168,24 +168,3 @@ I’m open to full-time roles where I can build data pipelines, analytics models
 
 If your team is building cloud data platforms, analytics products, or BI-ready data systems, I’d be happy to connect.
 
-
-## Visual Project Cards
-
-<p align="center">
-  <a href="https://github.com/NavalDhandha/Real_Time_Ride_Analytics_Pipeline">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NavalDhandha&amp;repo=Real_Time_Ride_Analytics_Pipeline&amp;hide_border=true" />
-  </a>
-  <a href="https://github.com/NavalDhandha/Airbnb_Analytics_Engineering_with-Snowflake-dbt">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NavalDhandha&amp;repo=Airbnb_Analytics_Engineering_with-Snowflake-dbt&amp;hide_border=true" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/NavalDhandha/Invoice_Inventory_intelligence">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NavalDhandha&amp;repo=Invoice_Inventory_intelligence&amp;hide_border=true" />
-  </a>
-  <a href="https://github.com/NavalDhandha/Healthcare_provider_productivity_platform">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NavalDhandha&amp;repo=Healthcare_provider_productivity_platform&amp;hide_border=true" />
-  </a>
-</p>
-
