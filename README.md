@@ -1,7 +1,11 @@
 <h1 align="center">Hi, I'm Naval Dhandha 👋</h1>
 
 <p align="center">
-  <b>Data Engineer building cloud pipelines, dbt models, and BI-ready data products.</b>
+  <b>Data Engineer building operational data products from messy business data.</b>
+</p>
+
+<p align="center">
+  I build end-to-end data systems for operational analytics — from raw ingestion and cloud pipelines to warehouse models, dashboards, and lightweight analytics apps.
 </p>
 
 <p align="center">
@@ -16,17 +20,44 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20to-Full--Time%20Roles-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Data%20Engineering-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Building-Operational%20Analytics-orange?style=for-the-badge" />
+</p>
+
 ---
 
 ## About Me
 
-I’m a Data Engineer / Analytics Engineer focused on building reliable data pipelines, clean data models, and analytics-ready products.
+I’m a Data Engineer / Analytics Engineer focused on building end-to-end data systems for operational analytics.
 
-I like working on the full data workflow: ingesting raw data, transforming it into trusted models, validating quality, and making it usable through dashboards, semantic layers, or lightweight apps.
+My work connects the full data workflow: ingesting raw data, cleaning and transforming it, modeling it for analytics, validating quality, and delivering it through dashboards, semantic layers, or lightweight apps.
 
-My work is centered around one idea: **turn messy operational data into systems people can actually trust and use.**
+The common thread across my projects is simple:
 
-I’m currently open to **full-time Data Engineer, Analytics Engineer, and BI/Data Analyst roles**.
+> I build operational data products — pipelines, warehouse models, dashboards, and apps that make messy business data usable.
+
+My portfolio spans finance, supply chain, healthcare, ride analytics, marketplace analytics, and customer retention. The domains are different, but the core problem is the same: business teams need trusted data systems that help them monitor operations, understand performance, and make faster decisions.
+
+I’m currently open to full-time **Data Engineer, Analytics Engineer, and BI/Data Analyst** roles.
+
+---
+
+## Portfolio Theme
+
+My projects are organized around one theme:
+
+**Building end-to-end data systems for operational analytics.**
+
+Each project shows a different part of that workflow:
+
+- **Ingestion:** moving raw data from files, APIs, events, or databases into a data platform
+- **Transformation:** cleaning, joining, and standardizing data with Python, SQL, dbt, or Databricks
+- **Modeling:** creating warehouse models, star schemas, OBTs, and KPI-ready tables
+- **Delivery:** turning data into dashboards, analytics apps, or decision-support outputs
+- **Business impact:** helping teams improve visibility, reduce manual work, and make faster decisions
+
 
 ---
 
@@ -136,4 +167,25 @@ I’m open to full-time roles where I can build data pipelines, analytics models
 - GitHub: [github.com/NavalDhandha](https://github.com/NavalDhandha)
 
 If your team is building cloud data platforms, analytics products, or BI-ready data systems, I’d be happy to connect.
+
+
+## Visual Project Cards
+
+<p align="center">
+  <a href="https://github.com/NavalDhandha/Real_Time_Ride_Analytics_Pipeline">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NavalDhandha&amp;repo=Real_Time_Ride_Analytics_Pipeline&amp;hide_border=true" />
+  </a>
+  <a href="https://github.com/NavalDhandha/Airbnb_Analytics_Engineering_with-Snowflake-dbt">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NavalDhandha&amp;repo=Airbnb_Analytics_Engineering_with-Snowflake-dbt&amp;hide_border=true" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/NavalDhandha/Invoice_Inventory_intelligence">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NavalDhandha&amp;repo=Invoice_Inventory_intelligence&amp;hide_border=true" />
+  </a>
+  <a href="https://github.com/NavalDhandha/Healthcare_provider_productivity_platform">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NavalDhandha&amp;repo=Healthcare_provider_productivity_platform&amp;hide_border=true" />
+  </a>
+</p>
 
